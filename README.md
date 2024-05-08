@@ -24,17 +24,11 @@ And here it is! The ultimate two-player air combat game! With a friend, you will
 
 # Usage
 
-Execute CHOPDUEL.EXE :)
-
-Choose your character.
-
-Player 1 (left) select using keys ‘1’, ‘2’ or ‘3’.
-
-Player 2 (right) select using keys ‘8’, ‘9’ or ‘0’.
-
-Press enter to start.
-
-If the fight gets too tough, ‘ESC’ to pause. ‘DEL ’brings you back to the main menu. Press delete again to quit the game.
+1) Execute GyroCombat.exe
+1) Choose your character.
+   - Player 1 (left) select using keys ‘1’, ‘2’ or ‘3’.
+   - Player 2 (right) select using keys ‘8’, ‘9’ or ‘0’.
+1) Press enter to start.
 
 ### In-game controls
 
@@ -48,6 +42,8 @@ If the fight gets too tough, ‘ESC’ to pause. ‘DEL ’brings you back to th
 Bullets raving on the screen
 
 To prevent you from being the human auto fire, only 4 bullets/player can be on the screen at the same time.
+
+If the fight gets too tough, ‘ESC’ to pause. ‘DEL ’brings you back to the main menu. Press delete again to quit the game.
 
 ### Collisions 
 | Collision type &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Results |
@@ -75,4 +71,4 @@ Now you sit ducks and wait for the other player to come and finish you off, or i
 
 ### Who's the winner?
 
-The winner is the one who last remains airborne out of ten drops. Drops are increased every time you your player dies.
+The winner is the one who last remains airborne out of ten drops. Drops are increased every time your player dies.
